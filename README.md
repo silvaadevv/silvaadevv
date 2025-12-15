@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é Wesley Gustavo, sou um programador Front-End, atualmente estou criando projetos com:
+My name is Wesley Gustavo, i am a Front-End programmer, i am currently creating projects with:
 <br>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-badge">
